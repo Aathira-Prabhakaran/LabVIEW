@@ -1,0 +1,13 @@
+<HTML>
+<HEAD>
+<TITLE>ATM.vi</TITLE>
+<META NAME="Author" CONTENT="">
+<META NAME="GENERATOR" CONTENT="G Development Environment">
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+<A NAME="ATM.vi"></A><H2>ATM.vi</H2>
+<P>This VI Simulates the operation of an ATM. It has option to simulate the card, informs the user via the ATM message. It has 6 buttons/ menus that the user can use to select the action he/she wants to perform</P>
+<P><IMG SRC="ATMp.png" ALT="ATM.vi"></P>
+<P><IMG SRC="ATMd.png" ALT="ATM.vi"></P>
+</BODY>
+</HTML>
